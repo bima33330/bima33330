@@ -37,9 +37,6 @@
 
 ## 🚀 My Projects
 
-### 🏠 RoomSense
-
-IoT-based room monitoring system using sensors to monitor environmental conditions.
 
 ### 💡 Automatic Lighting System
 

@@ -48,12 +48,6 @@ A web-based concept that helps users find suitable hairstyles based on their fac
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bima33330&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bima33330&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
 
 ---
 
